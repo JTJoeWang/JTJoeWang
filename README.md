@@ -1,3 +1,4 @@
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quotes" />
-</div>
+```text
+ (\_/) 
+ ( •_•)  < 歡迎來到我的 GitHub！
+ / >💻
